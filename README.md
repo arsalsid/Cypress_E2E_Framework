@@ -1,5 +1,5 @@
 
-## -------Anshita_Basin_Cypres End To End Automation Framework--------
+## -------Cypres End To End Automation Framework--------
 
 - Design Pattern: Page Object Model Framework
 AAA approach be used in this framework--- Arrange, Act and Assertion
