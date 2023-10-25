@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/arsalsid/Anshita_Basin_Cypress_Framework#readme",
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.0",
     "cypress": "^13.3.1"
   }
 }
