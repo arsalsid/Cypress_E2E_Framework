@@ -1,0 +1,22 @@
+{
+  "name": "anshita_basin_cypress_framework",
+  "version": "1.0.0",
+  "description": "Anshita_Basin_Cypres End To End Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalsid/Anshita_Basin_Cypress_Framework.git"
+  },
+  "author": "Muhammad Arsalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalsid/Anshita_Basin_Cypress_Framework/issues"
+  },
+  "homepage": "https://github.com/arsalsid/Anshita_Basin_Cypress_Framework#readme",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}
