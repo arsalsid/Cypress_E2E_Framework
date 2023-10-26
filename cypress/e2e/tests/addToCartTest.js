@@ -1,4 +1,4 @@
-import { homePage, homePage } from "../../pages/homePage"
+import { homePage} from "../../pages/homePage"
 import homePageData from '../../fixtures/homePageData.json'
 
 const homePageObj = new homePage()
