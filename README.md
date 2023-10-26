@@ -21,4 +21,4 @@ Pages => Locators, Actions- click,type, test=> object of page class and Assertio
 
 - GitHub: Clone Repository, Add files, Commit and Push, 
 - CI/CD pipelines: GitHub Actions for execution our testcases on CI/CD for scheduling (day/night)
-- Slack: Integration with Slack: Generated reports in GitHub Actions
+- Slack: Integration with Slack: Generated reports in GitHub Actions 
